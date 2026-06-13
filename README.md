@@ -41,7 +41,5 @@ This project was packaged using TurboWarp to provide:
 
 ## 📸 Screenshot
 
-Add a screenshot of your game here.
-
-```text
-assets/screenshot.png
+<img src="screenshots/flappy 1.png" alt="App Screenshot">
+<img src="screenshots/flappy 2.png" alt="App Screenshot"> <img src="screenshots/flappy 3.png" alt="App Screenshot"> <img src="screenshots/flappy 4.png" alt="App Screenshot"> <img src="screenshots/flappy 5.png" alt="App Screenshot">
