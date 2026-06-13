@@ -43,3 +43,15 @@ This project was packaged using TurboWarp to provide:
 
 <img src="screenshots/flappy 1.png" alt="App Screenshot">
 <img src="screenshots/flappy 2.png" alt="App Screenshot"> <img src="screenshots/flappy 3.png" alt="App Screenshot"> <img src="screenshots/flappy 4.png" alt="App Screenshot"> <img src="screenshots/flappy 5.png" alt="App Screenshot">
+
+## 🤖 Play on Discord
+
+Bring Tappy Bird to your Discord server with our official bot integration.
+
+Players can launch the game directly from Discord, challenge friends, and enjoy a classic arcade experience without leaving their server.
+
+**Invite the Bot:**
+[INVITE FLAPPY BIRD TO DISCORD ACTIVITY](https://discord.com/oauth2/authorize?client_id=1514642831526989944&permissions=321744710976000&integration_type=0&scope=applications.commands+bot)
+
+![Scratch](https://scratch.mit.edu/users/siddiqulakbark/)
+![Discord](https://dicord.gg/vNcpNQmAJH)
